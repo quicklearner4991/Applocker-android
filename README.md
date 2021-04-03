@@ -15,6 +15,7 @@ Tap to view functionality
 https://www.youtube.com/watch?v=0srWVdIp05g
 
 UPDATE:- 3 March
+
 Project is updgraded to 30 , Target SDK is 30 now 
 Tested on LG g8x
 
