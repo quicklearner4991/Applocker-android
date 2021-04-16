@@ -1,6 +1,6 @@
 # Applocker
 
-UPDATE:- 3 March
+UPDATE:- 3 March 2021
 
 Project is updgraded to 30 , Target SDK is 30 now 
 Tested on LG g8x
